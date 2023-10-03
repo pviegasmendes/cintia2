@@ -10835,6 +10835,10 @@ body {
   height: 100%;
 }
 
+a {
+  text-decoration: none;
+}
+
 .page-section {
   padding: 8rem 0;
 }
