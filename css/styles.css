@@ -10835,6 +10835,10 @@ body {
   height: 100%;
 }
 
+h1 {
+  font-size: larger;
+}
+
 a {
   text-decoration: none;
 }
